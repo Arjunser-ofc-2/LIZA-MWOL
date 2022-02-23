@@ -28,7 +28,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
 *Bot Make Video ytube -https://youtu.be/JsHtSqSkdOU*
 
-*sticker commads  ______✨👀IN LUB_💕___*     
+*WEBSITE LINK - Arjun-ser-ofc.github.io*
+
+*  ______✨👀IN LUB_💕___*     
 `}) 
 
 })); 
